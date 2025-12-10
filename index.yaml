@@ -3,6 +3,16 @@ entries:
   consul:
   - apiVersion: v2
     appVersion: "1.22"
+    created: "2025-12-10T07:19:50.014772916Z"
+    description: A Helm chart for Kubernetes
+    digest: fe4020d9407b5f87d0cb402c08abed69fb4fe6c078884f2762aa6808316f4d35
+    name: consul
+    type: application
+    urls:
+    - https://github.com/sordfish/consul-helm-chart/releases/download/consul-0.1.1/consul-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: "1.22"
     created: "2025-12-10T07:10:21.497567782Z"
     description: A Helm chart for Kubernetes
     digest: 51a5146e76617ae14ae295b42cdba5b8369ee6c4c4ac7802dbbd6684ebd46705
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/sordfish/consul-helm-chart/releases/download/consul-0.1.0/consul-0.1.0.tgz
     version: 0.1.0
-generated: "2025-12-10T07:10:21.497573413Z"
+generated: "2025-12-10T07:19:50.014781342Z"
